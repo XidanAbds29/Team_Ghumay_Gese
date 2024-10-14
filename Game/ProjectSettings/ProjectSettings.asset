@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a47a21fe3c92f9246ae89243003bfe58
+  productGUID: 4dfc8a37368ec2e47a0be3274e92575e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Game_Ghumay_Gese
+  productName: Game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -678,14 +678,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Game_Ghumay_Gese
+  metroPackageName: Game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Game_Ghumay_Gese
+  metroApplicationDescription: Game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -755,10 +755,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3d3ee8e8-a0a6-4ef3-be3f-b1cd89ca8e6e
+  cloudProjectId: 3a567213-fbca-4f70-8c70-5bbe66a6a8b0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Game_Ghumay_Gese 2024-10-14_14-29-28
+  projectName: Game
   organizationId: abdullahsiham31602
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
